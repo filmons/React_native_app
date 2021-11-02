@@ -8,7 +8,6 @@ export default function App() {
       <Text>c'est blabam</Text>
       <Text>Open up App.js to start working on your app!</Text>
       <Text>Open up App.js to start working on your app!</Text>
-      <Text>Open up App.js to start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
     
